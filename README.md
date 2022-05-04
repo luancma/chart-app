@@ -13,10 +13,10 @@ Backend url should be running
 
 Backend URL: https://github.com/and-dzh3/ws-srv
 
-`git clone repoName`
+`git clone https://github.com/luancma/chart-app`
 
-`cd repoName`
+`cd chart-app`
 
-`npm i`
+`npm install`
 
 `npm run start`
