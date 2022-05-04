@@ -3,6 +3,7 @@
 ### Technologies:
 
 - CRA
+- Typescript
 - Tailwind CSS
 - React Toastify
 - Recharts
